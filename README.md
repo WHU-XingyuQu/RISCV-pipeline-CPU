@@ -4,6 +4,9 @@
 
 This is a complete implementation of a RISC-V RV32I five-stage pipelined CPU, supporting all 37 standard instructions with forwarding unit, hazard detection unit, and basic interrupt handling mechanisms.
 
+
+**Star ⭐ this repository if you find it helpful!**
+
 ## Features
 
 ### 1. Five-Stage Pipeline Architecture
@@ -442,7 +445,3 @@ Created by: Claude AI Assistant
 ## Contact
 
 For questions, issues, or contributions, please open an issue on GitHub.
-
----
-
-**Star ⭐ this repository if you find it helpful!**
